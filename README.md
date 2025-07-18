@@ -2,6 +2,8 @@
 
 This project provisions a complete multi-tier infrastructure on **AWS** using **Terraform**, designed for a Flask backend application with secure and scalable access.
 
+<img width="824" height="427" alt="Screenshot (640)" src="https://github.com/user-attachments/assets/3bc95482-4380-46ca-b42a-d3be2e2c2077" />
+
 ---
 
 ## 🚀 Architecture Overview
