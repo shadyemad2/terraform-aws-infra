@@ -1,4 +1,4 @@
-# 🌐 Terraform AWS Flask App Infrastructure
+# 🌐 Secure Web App with Public Proxy + Private Backend on AWS using Terraform
 
 This project provisions a complete multi-tier infrastructure on **AWS** using **Terraform**, designed for a Flask backend application with secure and scalable access.
 
