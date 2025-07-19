@@ -108,6 +108,10 @@ terraform apply
 Application is accessible at:
 http://<public-alb-dns-name>
 ```
+<img width="1686" height="511" alt="1" src="https://github.com/user-attachments/assets/c4c6fe43-95f5-4bea-bbfa-402a4eb4285b" />
+<img width="1564" height="580" alt="2" src="https://github.com/user-attachments/assets/5fe16be7-7e76-4f92-a628-075b00e3e439" />
+<img width="1538" height="451" alt="3" src="https://github.com/user-attachments/assets/b49aa552-210e-497c-abfd-b20fc4f2eb12" />
+<img width="1651" height="545" alt="4" src="https://github.com/user-attachments/assets/bb2af662-f5c9-4fd0-9f25-be2f7686ea9e" />
 
 ---
 
